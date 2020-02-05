@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+"name": "Tsuyoshi"
+"English name": "Toughy"
+"email": "ogutsuyoshi@gmail.com"
+
